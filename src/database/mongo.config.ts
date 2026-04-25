@@ -1,0 +1,3 @@
+export const mongoConfig = {
+  MONGO_URI: "mongodb://127.0.0.1:27017/smart_service",
+};
